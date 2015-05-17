@@ -1,4 +1,17 @@
 h1, h2, p {
-	color: red;
-	text-align: center;
+	font-family: Helvetica;
+	color: black;
+}
+
+ol, ul {
+	color: gray;
+}
+
+img{
+	float: left;
+}
+
+a:link {
+	background-color: lightblue;
+	float: left;
 }
